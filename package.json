@@ -1,0 +1,22 @@
+{
+  "name": "mapesa",
+  "version": "1.0.0",
+  "description": "Mapesa module by harry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mapesa"
+  ],
+  "author": "Harrison Njeru",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "eventemitter3": "^4.0.7",
+    "react": "^17.0.2",
+    "socket.io-client": "^4.4.0",
+    "throttle-debounce": "^3.0.1",
+    "url-join": "^4.0.1"
+  }
+}
